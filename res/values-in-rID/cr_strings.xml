@@ -163,8 +163,8 @@
     <string name="show_quickspace_title">Sekilas</string>
     <string name="show_quickspace_summary">Tampilkan di bagian atas layar beranda Anda</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Selamat datang di crDroid!</string>
-    <string name="quick_event_rom_intro_welcome_ext">waktunya crDroid!</string>
+    <string name="quick_event_rom_intro_welcome">Selamat datang di OrionOS!</string>
+    <string name="quick_event_rom_intro_welcome_ext">waktunya OrionOS!</string>
     <string-array name="welcome_message_variants">
         <item>Terima kasih telah mimilih kami</item>
         <item>Loving us? Send us a beer</item>
@@ -305,16 +305,16 @@
         <item>Oh hai, apa kabar?</item>
         <item>Fokus terhadap tugasmu</item>
         <item>Berapa banyak tangkapan layar yang kamu ambil?</item>
-        <item>Kebaikan terbuka dengan crDroid</item>
+        <item>Kebaikan terbuka dengan OrionOS</item>
         <item>Sebarkan cinta, bukan malapetaka</item>
         <item>Kami tidak menyalakan api!</item>
         <item>Waktunya mendengarkan musik</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>Anda membutuhkan crDroid Premium untuk melihat ini</item>
+        <item>Anda membutuhkan OrionOS Premium untuk melihat ini</item>
         <item>Ingat garis keturunan Unicorn</item>
         <item>Nikmati daya tahan baterai yang bertambah</item>
         <item>Dimulai dari paling nol</item>
-        <item>We love you 3000</item>
+        <item>We love you 999+</item>
         <item>Lezat bahkan tanpa Sushi</item>
         <item>Lakukan sesuatu yang baik hari ini</item>
         <item>Inilah pengalaman Pixel yang terbaik, betul tidak?</item>
