@@ -42,6 +42,10 @@ jobs:
         with:
           package: 'build-tools;29.0.3'
 
+      - name: Display installed Java version
+        run: java -version
+
+
       - name: Install Android SDK platform 'S'
         run: echo y | sdkmanager "platforms;android-S"
 
